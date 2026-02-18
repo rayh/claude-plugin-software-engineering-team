@@ -1,4 +1,4 @@
-# claude-team-agents
+# claude-plugin-software-engineering-team
 
 Opinionated specialist agents and team workflows for Claude Code. Focused on doing fewer things well rather than covering everything.
 
@@ -49,15 +49,15 @@ Key principles:
 
 ```bash
 # From any Claude Code session:
-/plugin install https://github.com/rayh/claude-team-agents
+/plugin install https://github.com/rayh/claude-plugin-software-engineering-team
 ```
 
 ### Option 2: Copy to Global Config
 
 ```bash
 # Clone the repo
-git clone https://github.com/rayh/claude-team-agents.git
-cd claude-team-agents
+git clone https://github.com/rayh/claude-plugin-software-engineering-team.git
+cd claude-plugin-software-engineering-team
 
 # Copy agents and skills to your global Claude config
 cp -r agents/* ~/.claude/agents/

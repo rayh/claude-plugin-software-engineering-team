@@ -1,9 +1,9 @@
 {
-  "name": "claude-team-agents",
+  "name": "claude-plugin-software-engineering-team",
   "version": "0.1.0",
   "description": "Opinionated specialist agents and team workflows for software development. Includes software architect, SRE, quality engineer, security auditor, and orchestration patterns.",
   "author": "rayh",
-  "homepage": "https://github.com/rayh/claude-team-agents",
+  "homepage": "https://github.com/rayh/claude-plugin-software-engineering-team",
   "license": "MIT",
   "components": {
     "agents": [
